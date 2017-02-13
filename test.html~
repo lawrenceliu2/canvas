@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  </head>
+
+  <body>
+    <h1 id="header">Hello World!</h1>
+
+    <p>Today is a good day for toast.</p>
+    
+    <script src="canvas.js"></script>
+  </body>
+
+</html>
